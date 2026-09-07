@@ -1,0 +1,17 @@
+
+# Normaliza los finales de linea en todo el repositorio
+* text=auto eol=lf
+# Estos archivos DEBEN tener finales de linea Unix o fallan a
+l ejecutarse
+*.sh text eol=lf
+*.bash text eol=lf
+Dockerfile text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+# Estos son binarios: no los toque
+*.png binary
+*.jpg binary
+*.pdf binary
+
+[200~*.drawio binary
+*.drawio binary
