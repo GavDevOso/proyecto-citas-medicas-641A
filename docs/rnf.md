@@ -9,6 +9,8 @@ ficacion | Consecuencia si no se cumple |
 | 1 | Rendimiento | p95 de latencia | menor a 400 ms | 200 usuarios concurrentes | Prueba de carga | El usuario abandona el proceso de agendamiento |
 | 2 | Disponibilidad | Porcentaje de uptime | mayor o igual a 99.5% | Operación 24/7 | Monitoreo sintético | Pérdida de agendamiento de citas médicas |
 | 3 | Seguridad | Cifrado de datos | HTTPS (TLS 1.3) y JWT con algoritmo HS256 | Tráfico completo en red pública | Escaneo de seguridad OWASP | Exposición de información sensible de pacientes |
+| 4 | Usabilidad | Facilidad de uso | < 3 clics para agendar | Uso continuo por usuarios | Prueba con usuarios | Frustración del usuario y pérdida de citas |
+| 5 | Escalabilidad | Capacidad de respuesta ante alta demanda | Soporta 1000 peticiones/min sin degradas servicio | Horas pico de agendamiento | Prueba de estrés con JMeter | Caída del sistema y bloqueo de usuarios |
 ## Escenarios completos
 ### Escenario 1
 -Fuente:
