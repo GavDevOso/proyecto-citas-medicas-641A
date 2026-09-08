@@ -7,8 +7,9 @@ Dos o tres lineas sobre que problema resuelve el sistema y pa
 ra quien.
 ## Integrantes
 | Nombre | Usuario de GitHub | Rol en el equipo |
-| Kevin Daza | si | Desarrollador |
-| Gabriel Tellez | si | Desarrollador 
+|---|---|---|
+| Kevin Daza | Kevin030106 | Desarrollador |
+| Gabriel Tellez | GavDevOso | Desarrollador |
 ## Estado del proyecto
 | Hito | Estado | Tag |
 |---|---|---|
