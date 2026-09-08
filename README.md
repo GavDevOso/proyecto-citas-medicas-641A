@@ -7,11 +7,8 @@ Dos o tres lineas sobre que problema resuelve el sistema y pa
 ra quien.
 ## Integrantes
 | Nombre | Usuario de GitHub | Rol en el equipo |
-taller-01-git-github-Arquitectura-de-sistemas 13
-|---|---|---|
-| | | |
-| | | |
-| | | |
+| Kevin Daza | si | Desarrollador |
+| Gabriel Tellez | si | Desarrollador 
 ## Estado del proyecto
 | Hito | Estado | Tag |
 |---|---|---|
